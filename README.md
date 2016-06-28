@@ -1,7 +1,14 @@
 # Fahrgemeinschaft
 Carpool in German (Fahrpark also)
+This is a copy code repository.
 
-## Bringing up
+## Credits
+[Faruq](https://github.com/ruqqq)
+[Yanxian](https://github.com/yanxian)
+[Juliana](https://github.com/hexcone)
+[Chun How](https://github.com/tanch88)
+
+## Quickstart
 
 ### Requirements
 - PHP 5.5.9
