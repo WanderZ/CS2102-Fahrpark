@@ -1,0 +1,33 @@
+/* Other custom styles */
+.navbar-text > a {
+  font-family: "Georgia", Times, serif;
+  font-size: 1.2em;
+  color: #00b3ff;
+}
+.navbar-text > a:hover {
+  font-family: "Georgia", Times, serif;
+  font-size: 1.2em;
+  color: #ff0034;
+}
+.navbar-text > a:active {
+  font-family: "Georgia", Times, serif;
+  font-size: 1.2em;
+  color: #ff0034;
+}
+.navbar-text > a:visited {
+  font-family: "Georgia", Times, serif;
+  font-size: 1.2em;
+  color: #008fcc
+}
+.admin-nav {
+  background: #512;
+  color: #aaa;
+}
+.admin-nav > .container > #navbar > .navbar-nav > .active > a {
+  background: #612;
+  color: #eee;
+}
+
+#main-content-display h1 {
+  border-bottom: black thin solid;
+}
